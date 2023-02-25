@@ -1,0 +1,191 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.mainBanner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainHeader {
+    color: white;
+
+    display: flex;
+    align-items: center;
+    height: 35px;
+    background-color: #00afef;
+    width: 100%;
+}
+nav{
+    top: 0;
+    position: sticky;
+
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    background-color: rgba(0, 0, 0, 0.74);
+    color: whitesmoke;
+    padding: 1rem;
+}
+
+.container p {
+    width: 50%;
+
+}
+
+.heading {
+    display: inline-block;
+    width: 50%;
+}
+
+.bottom25 {
+    margin-bottom: 25px;
+
+}
+
+.center-block {
+    width: 173px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.Box2 {
+    width: 25%;
+    align-items: center;
+    display: flex;
+}
+.Box1 {
+    width: 35%;
+   
+  
+}
+.image360 {
+    display: flex;
+    justify-content: center;
+}
+
+.image360 .text {
+    display: block;
+    justify-content: center;
+}
+
+.back197 {
+    position: sticky;
+    height: 250px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-image: url(/images/parallax1.jpg);
+    overflow: scroll;
+
+}
+.back1974 {
+   
+    height: 250px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.Re1974 {
+    text-align: center;
+}
+
+.about {
+ 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.Re1974 h2 {
+    display: contents;
+    width: 100%;
+
+}
+
+.Re1974 h1 {
+    font-size: 3rem;
+}
+
+.Announcements {
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    height: 150px;
+    background-color: gray;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Announcements h2 {
+    font-size: 22px;
+    color: white;
+}
+
+.btn-danger {
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    margin: 17px;
+    padding: 3px;
+}
+
+.Events {
+    display: block;
+    justify-content: center;
+    width: 200px;
+    background-color: gray;
+    border-radius: 10px;
+    margin: 16px;
+    padding: 3rem;
+}
+
+.Events h2 {
+    font-size: 22px;
+    color: white;
+    width: auto;
+}
+
+.Our-Social-Media{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+
+/* Gallery */
+
+
+.Gallery{
+    width: 25%;
+    display: flex;
+    margin-left: 487px;
+    margin-top: 66px;
+    justify-content: space-around;
+}
+
+/* Our-Departments */
+
+.Our-Departments{
+    width: 33%;
+}
+.img{
+    width: 69px; height: 51px;
+}
